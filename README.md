@@ -1,4 +1,5 @@
-## 陳毅
+## My CV
+![intro](./minifesto.gif)
 > Hello everyone, I'm ian.
 A student, JS developer and lover.
 I'm good at develop application on Node.js and javascript, For example: Application of Blockchain and machine leaening that were powered by JS.
