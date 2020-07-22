@@ -73,7 +73,6 @@ Moreover, I also be pleased to join any conference about web, tech, computation 
 
 ### Reference
 
-<hr>
 1. KKBOX Hackathon https://innovation.kktix.cc/events/vote-the-works-2020
 
 2. Hyperledger Fabric https://www.hyperledger.org/use/fabric
