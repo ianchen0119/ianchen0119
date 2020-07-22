@@ -1,8 +1,8 @@
 ## My CV
 ![intro](https://github.com/ianchen0119/ianchen0119/blob/master/minifesto.gif)
-> Hello everyone, I'm ian.
+> Hello everyone, I'm Ian.
 A student, JS developer and lover.
-I'm good at develop application on Node.js and javascript, For example: Application of Blockchain and machine leaening that were powered by JS.
+I'm good at develop application on Node.js and JavaScript, For example: Application of Blockchain and machine learning that were powered by JS.
 Moreover, I also be pleased to join any conference about web, tech, computation programming e.g. GDG Devfest, SITCON, COSCUP...and so on.
 
 我是陳毅，目前就讀於國立臺北科技大學電子工程系計算機工程組。擅長Node.js與JavaScript的應用開發，像是：結合區塊鏈、機器學習等新興技術開發相關的應用系統。除此之外，也喜歡參與相關技術社群所舉辦的活動，與其他開發者、學生進行交流。
