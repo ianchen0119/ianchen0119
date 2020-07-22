@@ -1,5 +1,5 @@
 ## My CV
-![intro](./minifesto.gif)
+![intro](https://github.com/ianchen0119/ianchen0119/blob/master/minifesto.gif)
 > Hello everyone, I'm ian.
 A student, JS developer and lover.
 I'm good at develop application on Node.js and javascript, For example: Application of Blockchain and machine leaening that were powered by JS.
