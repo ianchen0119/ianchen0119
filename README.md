@@ -34,7 +34,7 @@ Moreover, I also be pleased to join any conference about web, tech, computation 
 - 以太坊上的打卡獎勵機制
 - MarkDown Editor
 
-### Work Experiences
+### Work Experience
 
 <hr>
 
@@ -72,7 +72,7 @@ Moreover, I also be pleased to join any conference about web, tech, computation 
 
 ​	國立臺北科技大學 電子工程系 (計算機工程組) 學士
 
-### Reference
+### References
 
 1. KKBOX Hackathon https://innovation.kktix.cc/events/vote-the-works-2020
 
