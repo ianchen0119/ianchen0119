@@ -1,7 +1,8 @@
 ## My CV
 
 ![intro](https://github.com/ianchen0119/ianchen0119/blob/master/minifesto.gif)
-> Hello everyone, I'm Ian.
+
+I'm Ian,
 A student, JS developer and lover.
 I'm good at develop application on Node.js and JavaScript, For example: Application of Blockchain and machine learning that were powered by JS.
 Moreover, I also be pleased to join any conference about web, tech, computation programming e.g. GDG Devfest, SITCON, COSCUP...and so on.
@@ -22,6 +23,19 @@ Moreover, I also be pleased to join any conference about web, tech, computation 
 - Robert Bosch - Product Quality Improvement
 - DG-Lab Frontend-developer
 
+### Skills
+
+- Vue.js
+- React.js
+- Git
+- Node.js
+- Koa.js
+- Deno
+- TypeScript
+- SCSS
+
 ### Contact me
+
 [Email](ychen.desl@gmail.com)
+
 [Linkedin](www.linkedin.com/in/ian-chen-88b70b1aa)
