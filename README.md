@@ -9,19 +9,23 @@ Moreover, I also be pleased to join any conference about web, tech, computation 
 
 ### Honors
 
+- Deno Taiwan 社群打雜
 - Speaker @SITCON 2020
 - KKBOX Hackathon 2020 - 第一名
 - 成大 ITSA GEEK - 晉級決賽
 - IT幫鐵人賽 2019 - 鐵人練成獎、經由六角學院認證
-- IT幫鐵人賽 2020 - 進行中...
+- IT幫鐵人賽 2020 
 - 校內學生學術性競賽成績優良獎項
+
+### Publication
+
+[Deno 入門手冊](https://t106360734.gitbook.io/deno/)
 
 ### Work Experience
 
 - 友嘉實業 - 資訊部
 - 馬唯科技
 - Robert Bosch - Product Quality Improvement
-- DG-Lab Frontend-developer
 
 ### Skills
 
