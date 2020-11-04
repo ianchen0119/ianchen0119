@@ -19,7 +19,7 @@ Moreover, I also be pleased to join any conference about web, tech, computation 
 
 ### Publication
 
-[Deno 入門手冊](https://t106360734.gitbook.io/deno/)
+[Deno 入門手冊](https://ianchen0119.gitbook.io/deno/)
 
 ### Work Experience
 
