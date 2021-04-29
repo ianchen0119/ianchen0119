@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ian-chen-88b70b1aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ian-chen-88b70b1aa/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ianchen0119&show_icons=true&locale=en&layout=compact" alt="ianchen0119" /></p>
+![](https://gist.githubusercontent.com/ianchen0119/ba1675cab0a4541db75457efd98180a2/raw/d9790e721291f5cb41aea29698e845676f391b8a/usedlang.svg)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianchen0119&show_icons=true&locale=en" alt="ianchen0119" /></p>
 
