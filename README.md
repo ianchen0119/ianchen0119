@@ -6,14 +6,8 @@
 
 - 📫 How to reach me **ychen.desl@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ian-chen-88b70b1aa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ian-chen-88b70b1aa/" height="30" width="40" /></a>
-</p>
-
+![](https://github-readme-stats.vercel.app/api?username=ianchen0119&show_icons=true&locale=en)
 ![](https://gist.githubusercontent.com/ianchen0119/ba1675cab0a4541db75457efd98180a2/raw/3ed59438a0099e7cc0221f7aec84e5315fec2fa6/usedlang.svg)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianchen0119&show_icons=true&locale=en" alt="ianchen0119" /></p>
 
 
 ### Honors
