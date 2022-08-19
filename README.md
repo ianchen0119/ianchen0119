@@ -20,4 +20,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ianchen0119&show_icons=true&locale=en" alt="ianchen0119" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ianchen0119&" alt="ianchen0119" /></p>
+### Publication
+
+![RISC-V-book](https://user-images.githubusercontent.com/42661015/185540971-3007881c-02ec-4b41-984b-ccb946466243.jpg)
+
+- [Buy it](https://www.tenlong.com.tw/products/9786263332188?list_name=p-r-zh_tw)
