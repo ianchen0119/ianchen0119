@@ -23,5 +23,7 @@
 ### Publication
 
 ![RISC-V-book](https://user-images.githubusercontent.com/42661015/185540971-3007881c-02ec-4b41-984b-ccb946466243.jpg)
-
 - [Buy it](https://www.tenlong.com.tw/products/9786263332188?list_name=p-r-zh_tw)
+
+![5G-Book](https://github.com/ianchen0119/ianchen0119/assets/42661015/b264f274-7d19-4a34-8487-15b69f7d0dbb)
+- [Buy it](https://www.tenlong.com.tw/products/9786263336094)
